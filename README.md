@@ -65,4 +65,7 @@ Para o truque sair rápido, é necessário que o código seja bem decorado pelo 
 ***
 ### Fonte
 >Matéria escrita por Carmem Kawano<br/>
->[Matéria da revista Galileu](http://revistagalileu.globo.com/Galileu/0,6993,ECT545764-2680,00.html)
+>[Página da revista Galileu](http://revistagalileu.globo.com/Galileu/0,6993,ECT545764-2680,00.html)
+
+### Código 
+Neste projeto encontra-se o código fonte em C# que mostra como implementar a parte da assistente (escolher a ordem das cartas) e também do mágico (tentar acertar).
